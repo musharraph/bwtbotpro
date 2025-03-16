@@ -162,6 +162,7 @@ header h2 {
     border: 1px solid rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(5px);
     animation: fadeUp 0.8s ease-out;
+    margin-top: 10px;
 }
 
 @keyframes fadeUp {
