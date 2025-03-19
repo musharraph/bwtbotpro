@@ -7,7 +7,7 @@ document.getElementById("passwordBtn").addEventListener("click", function () {
     let container = document.querySelector(".container");
     let errorMsg = document.getElementById("passwordError");
 
-    if (password === "1234") {
+    if (password === "bwt00") {
         passwordScreen.style.display = "none";
         container.style.display = "block";
     } else {
